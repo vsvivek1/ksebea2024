@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "392799260162",
+    "project_id": "ksebea-8e7d8",
+    "storage_bucket": "ksebea-8e7d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392799260162:android:e49452fced179d2ad3211b",
+        "android_client_info": {
+          "package_name": "com.ksebea.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392799260162-s5hfffg3lcpi85qllil0pf7uk9e80qat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksebea.in",
+            "certificate_hash": "73851932137753d35b1756f5b0a3b339d413dbc3"
+          }
+        },
+        {
+          "client_id": "392799260162-bh3c96i28b8n12aqm3q6097qenmqec2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Av5iy6Qk7EBO7MW_1-V5dcZ-ozdr7EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392799260162-bh3c96i28b8n12aqm3q6097qenmqec2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392799260162-q9gnki25funbqcskh02qjg2bukar5b3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ksebea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
